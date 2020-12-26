@@ -8,7 +8,8 @@ body {
 
 .jumbotron {
   background: #F36C6C;
-  background: url('bgt.png') no-repeat center center; 
+    height:560px;
+
 
 }
 
